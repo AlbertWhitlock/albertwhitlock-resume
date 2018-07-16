@@ -1,0 +1,26 @@
+{
+    "name": "Albert Whitlock",
+    "website": "https://whomever.github.io/",
+    "linkedin": "https://www.linkedin.com/messaging/thread/6370015072009355264/",
+    "github": "alberto",
+    "email": "randomDude@gmail.com",
+    "resume": "https://perryf.github.io/img/resume-fustero.pdf",
+    "proficient-technologies": [
+        "html", 
+        "css", 
+        "javascript", 
+        "react", 
+        "angular", 
+        "mern", 
+        "mean",
+        "sql",
+        "node", 
+        "mongodb"
+        "realGoodGuy"
+    ],
+    "other-skills": [
+        "teaching",
+        "piano"
+        "massages"
+    ]
+}
